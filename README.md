@@ -7,7 +7,7 @@ Bagi pengguna Linux, Python tidak perlu diinstal. Karena Sebagian besar distro L
 Kunjungi halaman python berikut lalu klik download.
 
 Klik "Install Now", adapun untuk opsi "Add Python 3.9 to PATH" bisa Anda centang atau tidak. Pada contoh saya kali ini saya centang tapi pas screenshot belum tercentang.
-![gambar 1](screenshoot/python.png)
+![gambar 5](ss/python.png)
 
 
 Ikuti langkah instalasi dan tunggu proses sampai selesai,jika sudah selesai silahkan klik Close.
@@ -18,7 +18,7 @@ Buka CMD pada komputer
 Menjalankan Python Console dengan cara mengetikkan "python"
 Menampilkan tulisan “Hello” dilayar
 Menampilkan tulisan “Saya sedang belajar python” dilayar
-![gambar 1](screenshoot/lat1.png)
+![gambar 1](ss/lat1.png)
 
 
 LATIHAN 2
@@ -34,7 +34,7 @@ print ("hasil penjumlahan a+b=",a+b)
 • Mendefinisikan variable b dengan nilai 6
 • Mencetak nilai variable a dan b
 • Mencetak hasil penjumlahan a+b
-![gambar 2](screenshoot/lat2.png)
+![gambar 2](ss/lat2.png)
 
 LATIHAN 3
 • Menjalankan IDLE
@@ -60,6 +60,7 @@ print("Hasil Penjumlahan {1}+{0}=%s".format(a,b) %(a+b))
 print("Hasil Pembagian {1}/{0}=%s".format(a,b) %(a/b))
 
 Jika sudah run dan lihat apakah sudah sesuai tidak ada kesalahan atau eror.
-![gambar 3](screenshoot/lat3.png)
+![gambar 3](ss/lat3.png)
+
 
 
